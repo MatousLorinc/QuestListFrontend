@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+.quest-form {
+  background-color: #101746;
+  border-radius: 10px;
+  -webkit-box-shadow: 1px 1px 12px 0px rgba(83, 94, 159, 0.363);
+          box-shadow: 1px 1px 12px 0px rgba(83, 94, 159, 0.363);
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+  -ms-grid-rows: auto;
+      grid-template-rows: auto;
+  max-width: 400px;
+  min-width: 300px;
+  margin: 30px auto 30px;
+  padding: 20px 0 40px;
+}
+
+.quest-form-input {
+  border-radius: 5px;
+  height: 50px;
+  margin: 20px 50px 0 50px;
+}
+
+.quest-form-input-name {
+  background-color: white;
+}
+
+.quest-form-msg {
+  color: #67ff6f;
+  display: block;
+  margin: 20px 50px 0 50px;
+}
+
+.quest-datagrid-wrapper {
+  margin: auto;
+  max-width: 800px;
+}
+/*# sourceMappingURL=App.css.map */

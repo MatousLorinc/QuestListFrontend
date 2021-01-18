@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;  
+    text-decoration: none;
+}
+
+@import "_variables.scss";
+@import "components/_QuestsAPI.scss";
+@import "components/_QuestForm.scss";
+@import "components/_QuestDataGrid.scss";
+
+
